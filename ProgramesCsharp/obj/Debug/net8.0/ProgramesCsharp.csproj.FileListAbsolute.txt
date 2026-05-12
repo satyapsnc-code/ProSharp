@@ -1,0 +1,14 @@
+C:\Users\Satyanarayana\source\repos\ProgramesCsharp\bin\Debug\net8.0\ProgramesCsharp.exe
+C:\Users\Satyanarayana\source\repos\ProgramesCsharp\bin\Debug\net8.0\ProgramesCsharp.deps.json
+C:\Users\Satyanarayana\source\repos\ProgramesCsharp\bin\Debug\net8.0\ProgramesCsharp.runtimeconfig.json
+C:\Users\Satyanarayana\source\repos\ProgramesCsharp\bin\Debug\net8.0\ProgramesCsharp.dll
+C:\Users\Satyanarayana\source\repos\ProgramesCsharp\bin\Debug\net8.0\ProgramesCsharp.pdb
+C:\Users\Satyanarayana\source\repos\ProgramesCsharp\obj\Debug\net8.0\ProgramesCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Satyanarayana\source\repos\ProgramesCsharp\obj\Debug\net8.0\ProgramesCsharp.AssemblyInfoInputs.cache
+C:\Users\Satyanarayana\source\repos\ProgramesCsharp\obj\Debug\net8.0\ProgramesCsharp.AssemblyInfo.cs
+C:\Users\Satyanarayana\source\repos\ProgramesCsharp\obj\Debug\net8.0\ProgramesCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Satyanarayana\source\repos\ProgramesCsharp\obj\Debug\net8.0\ProgramesCsharp.dll
+C:\Users\Satyanarayana\source\repos\ProgramesCsharp\obj\Debug\net8.0\refint\ProgramesCsharp.dll
+C:\Users\Satyanarayana\source\repos\ProgramesCsharp\obj\Debug\net8.0\ProgramesCsharp.pdb
+C:\Users\Satyanarayana\source\repos\ProgramesCsharp\obj\Debug\net8.0\ProgramesCsharp.genruntimeconfig.cache
+C:\Users\Satyanarayana\source\repos\ProgramesCsharp\obj\Debug\net8.0\ref\ProgramesCsharp.dll
